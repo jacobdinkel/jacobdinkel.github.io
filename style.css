@@ -1,7 +1,10 @@
 h2 {
     color:blue;
+
+    font-family: "Lucidia Console", Monaco, monospace; 
 }
-body {
-    font-family: "Lucidia Console", Monaco, monospace;
+
+div {
+    border: 2px solid black;
     
 }
