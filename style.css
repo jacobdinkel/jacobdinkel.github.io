@@ -1,7 +1,9 @@
 h2 {
     color:purple;
-
     font-family: "Lucidia Console", Monaco, monospace; 
+    padding: 5px;
+    margin: 0px;
+    margin-bottom: 10px;
 }
 
 div {
@@ -14,6 +16,8 @@ div {
     border-left-style: solid;
     border-bottom-style: dashed;
     border-radius: 4px;
+    margin-bottom: 30px;
+    
     box-shadow: 5px 5px 5px lime;
 
     background-color: lightgrey;
