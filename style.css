@@ -30,3 +30,12 @@ div {
 #secretpuzzle{
     color: lime;
 }
+
+.movietitle{
+    font-style: italic;
+}
+
+
+.foods{
+    font-style: cursive
+}
