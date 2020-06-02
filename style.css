@@ -1,5 +1,5 @@
 h2 {
-    color:purple;
+    color:navy;
     font-family: "Lucidia Console", Monaco, monospace; 
     padding: 5px;
     padding-right: 5px;
@@ -21,14 +21,14 @@ div {
     padding-right: 10px;
     padding-left: 5px; 
     
-    box-shadow: 5px 5px 5px lime;
+    box-shadow: 5px 5px 5px orangered;
 
     background-color: lightgrey;
     
 }
 
 #secretpuzzle{
-    color: lime;
+    color:orangered;
 }
 
 .movietitle{
